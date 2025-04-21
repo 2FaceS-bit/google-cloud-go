@@ -1,6 +1,13 @@
 # Changes
 
 
+## [1.84.0](https://github.com/googleapis/google-cloud-go/compare/aiplatform/v1.83.0...aiplatform/v1.84.0) (2025-04-21)
+
+
+### Features
+
+* **aiplatform:** Model Registry Model Checkpoint API ([fe831f9](https://github.com/googleapis/google-cloud-go/commit/fe831f9b125baf2cf5774ad892361df2d655814a))
+
 ## [1.83.0](https://github.com/googleapis/google-cloud-go/compare/aiplatform/v1.82.1...aiplatform/v1.83.0) (2025-04-15)
 
 
